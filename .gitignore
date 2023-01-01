@@ -1,8 +1,11 @@
 .idea
+/dist
+.git
+_metadata
+node_modules
+package-lock.json
+local-deploy.sh
 .DS_Store
 Thumbs.db
-_metadata/
-node_modules
 third_party
 !third_party/jingjingxyk/
-

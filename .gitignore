@@ -1,1 +1,8 @@
 .idea
+.DS_Store
+Thumbs.db
+_metadata/
+node_modules
+third_party
+!third_party/jingjingxyk/
+
